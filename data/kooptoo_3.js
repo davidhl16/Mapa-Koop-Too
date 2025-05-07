@@ -1,0 +1,1 @@
+var json_kooptoo_3 = {"type":"FeatureCollection","name":"kooptoo_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1"},"geometry":{"type":"Point","coordinates":[1.109552464595829,41.154554482116339]}}]}
